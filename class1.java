@@ -9,6 +9,7 @@ public class class1
 {
     // instance variables - replace the example below with your own
     private int x;
+    private int y;
 
     /**
      * Constructor for objects of class class1
